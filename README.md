@@ -1,9 +1,8 @@
 # PersonalTrainerBlogMultilanguage
-Trainer Blog with Multilanguage Option
+Trainer Blog with #Multilanguage Option
 
 www.katyaperrott.com
 
-Multilanguage Version
 
 Features:
 - Responsive design
