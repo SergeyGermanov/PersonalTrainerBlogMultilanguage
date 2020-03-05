@@ -7,7 +7,6 @@ Features:
 - Message form
 - Multilanguage
 - WYSIWYG editor
-- Authentication with bcrypt hashing
 
 Front-End:
 - Bootstrap
@@ -18,19 +17,13 @@ Front-End:
 
 Back-End:
 - Node.js 
-    +bcryptjs
     +body-parser
     +cookie-parser
-    +db
     +exports
     +express
     +express-handlebars
     +express-session
-    +formidable
-    +fs
+    +i18n
     +nodemailer
-    +nodemailer-smtp-transport"
-    +passport
-    +passport-local
+    +nodemailer-smtp-transport
     +path
-    +sqlite3
