@@ -1,17 +1,16 @@
 # PersonalTrainerBlogMultilanguage
 Trainer Blog with #Multilanguage Option
 
-www.katyaperrott.com
-
 
 Features:
 - Responsive design
 - Message form
+- Multilanguage
 - WYSIWYG editor
 - Authentication with bcrypt hashing
 
-Front-End
-- Bootstrap 4.1.3
+Front-End:
+- Bootstrap
 - HTML5
 - JavaScript
 - jQuery
@@ -19,17 +18,19 @@ Front-End
 
 Back-End:
 - Node.js 
-   +Handlerbars
-   +express
-   +exports
-   +path
-   +body-parser
-   +nodemailer
-   +nodemailer-smtp-transport
-   +SQLlite
-   +pasport
-   +sessions
-   +cookies
-- GIT was used for version control.
-
-This is a personal website for a friend of mine and an excellent personal trainer which I have done for her. 
+    +bcryptjs
+    +body-parser
+    +cookie-parser
+    +db
+    +exports
+    +express
+    +express-handlebars
+    +express-session
+    +formidable
+    +fs
+    +nodemailer
+    +nodemailer-smtp-transport"
+    +passport
+    +passport-local
+    +path
+    +sqlite3
